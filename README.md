@@ -3,4 +3,6 @@
 
 To use the Minutes to Hours converter, simply enter your amount of minutes as a number and click the Convert button (you can also click enter/return on your keyboard).
 
+<img src="https://lh3.googleusercontent.com/XtJMrBxc3WOxFkAkU9TWNPQgtVPYnO3ng34nVGsED75A8vtu4rurRpjj6En9FgAT5fNRe2_UPppi55ZYZNuYg1IXEqQvWEZavARi5I_FCYnlu6JuWAu7jocsrO3Ho_xLz-WoiH58Lof4qHEtLDaRxDmPfLfz2QPp3v6ULYUL40D20x2HLEZL8yvXCdUQDWEujWlFnLH1jopiiikUOahKjTXmJ5Ke4jr1RgsHiM6fvMVoSQYPkUMa4MOb1ab3bXf1aPiMg7Pj52uF_bwsEL5g56STkgnSxbOPj4oOXlX-40T0nl9zfOwvi1AmVEPtZzisQfimHV6PAYEDHIenn4tR-zKb9uzlRpbbZvz-g6WB5BgU9HFm7fDzU6-Z0zdA8tgYxDajQVpmv_lUNG6k6I_F7l93qCNUYPF6g59QwD72-OL-r2ToX1hXsmUiF9VPhNDCf9rHtPnPToBMRPm5k_jf5luIOT5lbBZzDL9wg1VPLejSyK-BmcS_lSV0c2i7QAQRRbWGCSrM3aBWr03d-Tm6Dk25yy5i8JYF0xZ2omb9cffQhf3dc7jCHybV1MEbAhs1i_Wjjc_Z9TC48OP7ZdjnS43I-ajmhNewBK8Yr0uWwzkdYDg_9Ml8Mg=w1257-h467-no" alt="Minutes to Hours converter">
+
 The time in hours is displayed as a decimal in a pop-up box.
