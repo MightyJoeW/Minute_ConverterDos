@@ -1,13 +1,13 @@
 
 body {
-    position: center;
-    margin: auto;
-    margin-top:30px;
-    padding: 20px;
-    max-width: 300px;
-    height: 350px;
-    border: 2px solid black;
-    border-radius:20px;
+  position: center;
+  margin: auto;
+  margin-top:30px;
+  padding: 20px;
+  max-width: 300px;
+  height: 350px;
+  border: 2px solid black;
+  border-radius:20px;
 }
 
 form {
@@ -35,8 +35,8 @@ input {
 }
 
 .minutesBox {
-    padding: 20px 20px 0 20px;
-    width: 238px;
+  padding: 20px 20px 0 20px;
+  width: 238px;
 }
 
 .minutesBox label {
@@ -80,16 +80,16 @@ input {
 }
 
 .title {
-    text-shadow: 1px 1px;
-    text-align:center;
-    color:midnightblue;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+  text-shadow: 1px 1px;
+  text-align:center;
+  color:midnightblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 .subTitle {
-    text-align:center;
-    color:#000;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+  text-align:center;
+  color:#000;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 .footer {
